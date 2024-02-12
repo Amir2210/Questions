@@ -1,4 +1,12 @@
+import { useEffect, useState } from 'react'
+import data from './data'
 const App = () => {
-  return <h2>Questions Starter</h2>
+  const [questions, setQuestions] = useState([data])
+
+  return (
+    <main>
+
+    </main>
+  )
 }
 export default App
