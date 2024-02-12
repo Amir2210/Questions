@@ -1,4 +1,5 @@
 📚 React FAQ Component
+
 This React component renders a FAQ (Frequently Asked Questions) section, allowing users to expand and collapse individual questions to view their answers.
 
 📦 Tech Stack:
@@ -30,3 +31,5 @@ The development process began with defining the structure of the FAQ component a
 3. Run npm install to install dependencies.
 4. Run npm run dev to start the development server.
 5. Open your browser and navigate to http://localhost:5173 to view the application.
+
+![ללא שם](https://github.com/Amir2210/Questions/assets/107459404/dec4400a-7d0f-44cd-b2c9-cd8d2be35553)
