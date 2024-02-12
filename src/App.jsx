@@ -3,8 +3,7 @@ import data from './data'
 import { QuestionsList } from './cmps/QuestionsList'
 
 const App = () => {
-  const [questions, setQuestions] = useState([data])
-
+  const [questions, setQuestions] = useState(data)
   return (
     <main>
       <QuestionsList questions={questions} />
