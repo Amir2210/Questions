@@ -32,4 +32,10 @@ The development process began with defining the structure of the FAQ component a
 4. Run npm run dev to start the development server.
 5. Open your browser and navigate to http://localhost:5173 to view the application.
 
+
+https://github.com/Amir2210/Questions/assets/107459404/aaaabce3-0ea3-4e00-bfd9-c50751259e58
+
+
+   
+
 ![ללא שם](https://github.com/Amir2210/Questions/assets/107459404/dec4400a-7d0f-44cd-b2c9-cd8d2be35553)
